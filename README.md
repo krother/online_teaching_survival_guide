@@ -1,6 +1,9 @@
 
 # Survival Guide for Online Teaching
 
+This guide is being created for teachers at [Data Science Retreat](https://datascienceretreat.com/)
+to deliver excellent masterclasses.
+
 ## Goal
 
 The goal of this project is to create a set of 10 recipes used by teachers at Data Science Retreat to successfully create and deliver online lessons on Data Sciene and related topics.
@@ -38,6 +41,8 @@ The documents will be prepared as SVG images and Markdown text so that it can be
 
 ## License
 
-(c) 2022 Kristian Rother and Jose Quesada / Data Science Retreat
+(c) 2022 Kristian Rother
 
-CC-BY 4.0
+Available under the conditions of the [Creative Commons Attribution License 4.0 (CC-BY 4.0)](http://creativecommons.org/licenses/by/4.0/)
+
+

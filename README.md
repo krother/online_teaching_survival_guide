@@ -8,7 +8,7 @@ to deliver excellent masterclasses.
 
 The goal of this project is to create a set of 10 recipes used by teachers at Data Science Retreat to successfully create and deliver online lessons on Data Sciene and related topics.
 
-![survival guide](survival_guide.png)
+![survival guide](images/survival_guide.png)
 
 ## Target Audience
 

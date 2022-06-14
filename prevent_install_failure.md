@@ -27,7 +27,7 @@ You want to decrease the number of failing student computers.
 * install helpdesk
 * self-paced exercise for others
 
-IMAGE DECAY
+![installation success vs. effort spent](images/installation_decay.png)
 
 If you get 90% working in a short time, it is good already.
 

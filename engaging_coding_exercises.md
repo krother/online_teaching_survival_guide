@@ -10,17 +10,25 @@ that calculates a series of square numbers:
   
 IMAGE TEACHER CODE
 
+    squares = []
+    for i in range(10):
+        squares.append(i ** 2)
+
+    print(squares)
+
 But if you show them a solution:
 
 IMAGE STUDENT FOR ASLEEP
 
 If you however ask them to write it themselves:
 
+    >>> _
+
 IMAGE STUDENT PANIC
 
 Or worse, they had a good idea and then think it is wrong after they see yours.
 
-IMAGE NUMPY
+    list(map(lambda x:x**2, range(10)))
 
 ----
 
@@ -44,6 +52,8 @@ IMAGE BUGS MIX GAPS TRANSFER
 
 To create these, create a complete solution first and omit parts.
 
+Faded Examples https://teachtogether.tech/en/index.html#s:architecture-load
+
 ### 3. Step-by-Step
 
 Provide a step-by-step recipe that tells students exactly what to do.
@@ -53,5 +63,3 @@ Better for a longer exercise.
 This is more work, but it is simpler to do.
 
 IMAGE BONUS EXTRA GAUGE
-
-LINK GREG

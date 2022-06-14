@@ -5,11 +5,16 @@
 
 You want to convert disconnected students:
 
-IMAGE 3 LONELY STUDENTS
+![three students having the same bug](images/students_nocoop.png)
 
 into a group:
 
-IMAGE GROUP
+![three students working together](images/students_coop.png)
+
+so that:
+
+![three students succeeding](images/students_success.png)
+
 
 However, in an online class, this rarely happens by itself.
 

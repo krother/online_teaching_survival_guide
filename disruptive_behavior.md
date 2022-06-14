@@ -36,6 +36,8 @@ Tell yourself something like:
 
 Text Prime Directive
 
+    Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand. — Norm Kerth
+
 Outside zoom, the same students are often perfectly peaceful and harmonic beings.
 
 IMAGE UNICORN PARK
@@ -43,15 +45,16 @@ IMAGE UNICORN PARK
 Or maybe it is their way of saying *"Hello"*
 
 IMAGE KLINGON GOOD DAY TO DIE
+ Heghlu'meH QaQ jajvam (Today is a good day to die)
 
 ### 3. Find out what is going on
 
 IMAGE 1ON1
 
-It may also help to let off some steam by running a team.
+It may also help to let off some steam by running a feedback round with the team.
 Cards feedback.
 
-Do not start a huge discussion, because its a big gamble
+Do not start a huge discussion, because it is likely to make matters worse.
 
 ### 4. Have a Code of Conduct
 
@@ -59,7 +62,7 @@ Ideally, students sign a Code of Conduct when they start the course
 The purpose of the CoC is that you can remind them of their own commitment.
 And if things go really, really bad, you can use it to justify decisions
 
-LINK BERLIN COC
+Check out the [Berlin Code of Conduct](https://berlincodeofconduct.org/)
 
 ### 5. Have a path of escalation
 

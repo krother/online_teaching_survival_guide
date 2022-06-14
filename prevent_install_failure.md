@@ -3,15 +3,10 @@
 
 ## The Problem
 
-IMAGE PROBLEM+S
-
-You prepared this nice, easy and fun example program:
-
-IMAGE PAC WORKS
-
+You prepared a nice, easy and fun example program.
 Everything works fine, but then your lesson starts:
 
-IMAGE PAC 4x FAIL
+![six installation situations](images/sixpac.png)
 
 If you fix everything in class, half the day will be over.
 

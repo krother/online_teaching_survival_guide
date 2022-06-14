@@ -46,7 +46,7 @@ almost no preparation
 
 Give them an incomplete solution
 
-IMAGE BUGS MIX GAPS TRANSFER
+![reduced code examples](images/reduced_examples.png)
 
 To create these, create a complete solution first and omit parts.
 

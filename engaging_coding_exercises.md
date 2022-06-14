@@ -22,13 +22,11 @@ IMAGE STUDENT FOR ASLEEP
 
 If you however ask them to write it themselves:
 
-    >>> _
+![student in panic mode](images/code_empty_panic.png)
 
-IMAGE STUDENT PANIC
+You also want to more advanced students to try alternative implementations:
 
-Or worse, they had a good idea and then think it is wrong after they see yours.
-
-    list(map(lambda x:x**2, range(10)))
+![squares with functional pattern](images/code_alternatives.png)
 
 ----
 
@@ -53,6 +51,8 @@ IMAGE BUGS MIX GAPS TRANSFER
 To create these, create a complete solution first and omit parts.
 
 Faded Examples https://teachtogether.tech/en/index.html#s:architecture-load
+
+
 
 ### 3. Step-by-Step
 

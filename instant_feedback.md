@@ -7,11 +7,11 @@ IMAGE PENGUIN HOW WAS MY BASH LESSON?
 
 You have **no idea** what is going on in your class.
 
-IMAGE WALL OF SILENCE
+![the wall of silence](images/wall_of_silence.png)
 
 .. or worse, you **know** something is going on:
 
-IMAGE MAD AT MY LESSON?
+![teacher trying to talk to student](images/are_you_mad_at_me.png)
 
 .. or everything is great and you would like to slow down and **reflect**:
 
@@ -46,6 +46,8 @@ Let students see the results:
 IMAGE 3 QUESTIONS
 
 -> Slack, Funretros, Spreadsheet
+
+![penguin with thermometer](images/thermo.png)
 
 IMAGE TEMP CHECK
 

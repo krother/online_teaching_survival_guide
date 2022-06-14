@@ -40,9 +40,9 @@ Make sure that your students can check the points without you.
 
 This makes many of the questions *"does it work already?" go away.
 
-### 3. Have a backup plan
+### 3. Have a Plan B
 
-IMAGE Plan B, C, D.. (strikethrough)
+![options for Plan B](images/planb.png)
 
 * Docker
 * Cloud

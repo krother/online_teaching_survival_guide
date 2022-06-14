@@ -46,7 +46,7 @@ IMAGE YODA
 
 Answer 4 questions:
 
-IMAGE 4MAT
+![4Mat - questions to sell your lesson](images/4mat.png)
 
 ### 3. Prime
 

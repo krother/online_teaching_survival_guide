@@ -18,13 +18,13 @@ IMAGE TEACHER CODE
 
 But if you show them a solution:
 
-IMAGE STUDENT FOR ASLEEP
+![student fell asleep](images/code_complete_solution.png)
 
 If you however ask them to write it themselves:
 
 ![student in panic mode](images/code_empty_panic.png)
 
-You also want to more advanced students to try alternative implementations:
+You also want more advanced students to try alternative implementations:
 
 ![squares with functional pattern](images/code_alternatives.png)
 

@@ -5,7 +5,7 @@
 
 You can spend a lot of time preparing lessons:
 
-IMAGE mobius
+![preparing inifitely long](images/infinity.png)
 
 When should you stop?
 

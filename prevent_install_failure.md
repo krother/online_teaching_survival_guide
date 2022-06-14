@@ -20,11 +20,12 @@ How to make installation issues go away?
 
 ### 1. Control the flow of events
 
-IMAGE EVENT TIMELINE
+![event timeline](images/installation_events.png)
 
 You want to decrease the number of failing student computers.
 
-* Self-paced exercise for others 
+* install helpdesk
+* self-paced exercise for others
 
 IMAGE DECAY
 
@@ -34,7 +35,7 @@ If you get 90% working in a short time, it is good already.
 
 Write a simple checklist that students
 
-IMAGE CHECKLIST
+![installation checklist](images/installation_checklist.png)
 
 Make sure that your students can check the points without you.
 

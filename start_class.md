@@ -5,21 +5,21 @@
 
 You want to:
 
-**Build authority and rapport**
+### Get the full attention of your students
 
-IMAGE STUDENTS WOW
+![attentive students](images/warmup_activate.png)
 
-**Warm up your students so they are eager to talk**
+### Build authority and rapport
 
-IMAGE STUDENTS AWAKE
+![impressed students](images/warmup_rapport.png)
 
-**Make them actively think about the subject**
+### Make them talk about the subject
 
-IMAGE STUDENTS THINK
+![talkative students](images/warmup_talk.png)
 
-... all of that in the first 5-15 minutes
+... all of that in the first 10 minutes
 
-IMAGE 5 TO 15 MIN
+![all of that in 10 minutes](images/all_in_ten_minutes.png)
 
 ----
 

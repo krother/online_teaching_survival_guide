@@ -9,3 +9,8 @@ icons were purchased from [The Noun Project](https://thenounproject.com) using t
 - Pro Designer https://thenounproject.com/prodesigners/
 - Heads of Birds https://thenounproject.com/headsofbirds/
 - Jonas Nullens https://thenounproject.com/jonas.nullens/
+- Eucalyp https://thenounproject.com/eucalyp/
+- Made x Made https://thenounproject.com/christian933/
+- Creative Stall https://thenounproject.com/creativestall/
+
+Haraucort initial from Wikimedia Commons - public domain

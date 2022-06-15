@@ -28,20 +28,21 @@ IMAGE SAFE BOX
 
 ### 1. Check the technical setup
 
-IMAGE CHECKLIST
-
-![Yoda says there is no try](images/yoda_try.png)
+![checklist](images/checklist_comtech.png)
 
 An online group is very sensitive to little bumps.
 If something does not work out it takes out momentum.
 
+![Yoda says there is no try](images/yoda_try.png)
+
 ### 2. Establish rules
 
-IMAGE STILL SAFE RULES TASK TIMEBOX 
+IMAGE STILL SAFE 
+RULES TASK TIMEBOX WRITE
 
 ### 3. Short taks are easier
 
-IMAGE SHORT TASKS
+![example tasks for group work](images/example_group_tasks.png)
 
 ### 4. Longer tasks in groups
 

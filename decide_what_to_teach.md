@@ -33,7 +33,7 @@ IMAGE A.oooo.B
 
 Literature says our mental capacity is
 
-IMAGE SEVEN PLUSMINUS TWO
+![seven plusminus two](images/seven_plus_two.png)
 
 ### 3. Leave away everything else
 

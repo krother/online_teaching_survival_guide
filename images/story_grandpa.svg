@@ -17,8 +17,8 @@
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="story_grandpa.svg"
    inkscape:export-filename="/home/kristian/projects/online_teaching_survival_guide/images/story_grandpa.png"
-   inkscape:export-xdpi="165.33"
-   inkscape:export-ydpi="165.33">
+   inkscape:export-xdpi="107.06"
+   inkscape:export-ydpi="107.06">
   <defs
      id="defs3264">
     <clipPath
@@ -44,8 +44,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="371.8232"
-     inkscape:cy="-96.467952"
+     inkscape:cx="190.50082"
+     inkscape:cy="-100.50856"
      inkscape:document-units="mm"
      inkscape:current-layer="g3265"
      showgrid="false"
@@ -63,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

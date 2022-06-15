@@ -36,8 +36,7 @@ IMAGE FIRST TIME
 
 Stories are strictly chronological.
 
-IMAGE HERO JOURNEY
-
+![hero journey](images/hero_journey.png)
 
 ### 3. Good Stories are short
 

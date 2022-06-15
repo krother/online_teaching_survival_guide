@@ -1,8 +1,8 @@
 
-blue: 4285f4
+blue: 4285f4ff
 
-green: 34a853
+green: 34a853ff
 
-yellow: fbbc05
+yellow: fbbc05ff
 
-red: ea4335
+red: ea4335ff

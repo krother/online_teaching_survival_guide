@@ -5,7 +5,7 @@
 
 You know much more than you can fit in one lesson.
 
-IMAGE AGENTS
+![knowing too much is a problem](images/agent.png)
 
 or isn't that such a big problem after all?
 

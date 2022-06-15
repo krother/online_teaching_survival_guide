@@ -74,7 +74,7 @@ if you have conflicts boiling may make them worse, lean coffee
 
 Most feedback
 
-IMAGE WARNING TOP SECRET
+![confidential meeting](images/agent_topsecret.png)
 
 ### Further Reading
 

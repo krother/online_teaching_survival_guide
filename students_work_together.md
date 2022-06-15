@@ -30,9 +30,7 @@ IMAGE SAFE BOX
 
 IMAGE CHECKLIST
 
-Can't you try in class?
-
-IMAGE YODA TRY
+![Yoda says there is no try](images/yoda_try.png)
 
 An online group is very sensitive to little bumps.
 If something does not work out it takes out momentum.

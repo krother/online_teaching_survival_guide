@@ -1,21 +1,20 @@
 
-IMAGE CAPITAL
-
 # How to use storytelling?
+
+![The End](images/story_onceupon.png)
 
 ## The Problem
 
-IMAGE TEACHER SAYS
-
-IMAGE GRANDPA
+![grandpa tells about his git lesson](images/story_grandpa.png)
 
 ----
 
 ## Solution
 
-IMAGE DISAMBIGUATION DATA VS STORYTELLING
-
 Start a new topic or sub-topic with a short story.
+
+![storytelling vs data storytelling](images/story_vs_data.png)
+
 
 ### 1. Reach into your experience
 
@@ -44,8 +43,10 @@ IMAGE HERO JOURNEY
 
 IMAGE 5' CIRCLE
 
+git story
+
 
 LINK MASTER FOO
 LINK READ 
 
-IMAGE THE END
+![The End](images/story_the_end.png)

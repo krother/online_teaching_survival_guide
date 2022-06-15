@@ -14,7 +14,7 @@ OR
 This can really ruin your day and take all the fun out of teaching.
 It can also ruing the course for the other students.
 
-IMAGE WARNING SIGN EXPLOSIVE YOU CANNOT IGNORE THIS
+![explosive situation](images/explosive_situation.png)
 
 ----
 

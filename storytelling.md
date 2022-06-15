@@ -16,7 +16,7 @@ Start a new topic or sub-topic with a short story.
 ![storytelling vs data storytelling](images/story_vs_data.png)
 
 
-### 1. Reach into your experience
+### 1. Draw from your experience
 
 You are the expert. You have been in situations that your students have no idea about.
 This makes it easy to craft a story. It does not even have to be a particularly good story
@@ -30,7 +30,9 @@ Think about:
 
 Then tell what happened. Plain and simple. That is enough. No fireworks needed.
 
-IMAGE FIRST TIME
+![first time story](images/story_first_time.png)
+
+You may want to rehearse your story one or twice or write it down.
 
 ### 2. The "Hero Journey" Structure
 
@@ -38,14 +40,16 @@ Stories are strictly chronological.
 
 ![hero journey](images/hero_journey.png)
 
+time: 5'
+
 ### 3. Good Stories are short
 
-IMAGE 5' CIRCLE
+![first time story](images/first_time.png)
+
 
 git story
 
-
 LINK MASTER FOO
-LINK READ 
+LINK HERO JOURNEY
 
 ![The End](images/story_the_end.png)

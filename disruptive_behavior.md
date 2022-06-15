@@ -9,7 +9,7 @@ OR
 
 1+ students openly behaves in a way that makes your work as a teacher difficult
 
-IMAGE STUDENT SUX
+![examples of disruptive comments](images/disruptive_comments.png)
 
 This can really ruin your day and take all the fun out of teaching.
 It can also ruing the course for the other students.
@@ -22,7 +22,7 @@ IMAGE WARNING SIGN EXPLOSIVE YOU CANNOT IGNORE THIS
 
 ### 1. Shields Up!
 
-IMAGE SHIELDS
+![shields up](images/shields_up.png)
 
 Put yourself into a *"safe mode"* where you consciously deal with the exceptional situation.
 
@@ -69,5 +69,5 @@ Find your counselor
 
 Know who you can turn to - a personal who is emotionally not involved and can take over the conversation
 
-IMAGE SPOCK LIVE LONG AND PROSPER
+![live long and prosper](images/vulcan.png)
 

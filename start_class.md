@@ -42,7 +42,7 @@ When it is time to start, start.
 
 ### 2. Sell your lesson in 2 minutes
 
-IMAGE YODA
+![Yoda sells a lesson](images/yoda_sells_lesson.png)
 
 Answer 4 questions:
 

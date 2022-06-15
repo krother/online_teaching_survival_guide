@@ -44,8 +44,7 @@ IMAGE UNICORN PARK
 
 Or maybe it is their way of saying *"Hello"*
 
-IMAGE KLINGON GOOD DAY TO DIE
- Heghlu'meH QaQ jajvam (Today is a good day to die)
+![Klingon speaking](images/klingon.png)
 
 ### 3. Find out what is going on
 

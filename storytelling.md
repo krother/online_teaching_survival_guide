@@ -48,9 +48,10 @@ time: 5'
 
 You may want to rehearse your story one or twice or write it down.
 
-git story
+    example git story
 
-LINK MASTER FOO
+Check out the teachings of [Master Foo](http://catb.org/esr/writings/unix-koans/ten-thousand.html) although they are a bit ancient.
+
 LINK HERO JOURNEY
 
 ![The End](images/story_the_end.png)

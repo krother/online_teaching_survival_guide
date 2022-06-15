@@ -7,3 +7,5 @@ icons were purchased from [The Noun Project](https://thenounproject.com) using t
 - habione 404 https://thenounproject.com/habione.404/
 - Ben Davis https://thenounproject.com/smashicons/
 - Pro Designer https://thenounproject.com/prodesigners/
+- Heads of Birds https://thenounproject.com/headsofbirds/
+- Jonas Nullens https://thenounproject.com/jonas.nullens/

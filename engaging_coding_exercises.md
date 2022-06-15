@@ -3,12 +3,14 @@
 
 ## The Problem
 
+![teacher preparing lesson](images/teacher_coding_ex.png)
+
 Suppose your students are to write a program
 that calculates a series of square numbers:
 
     1  4  9  16  25  36  49  ...
   
-IMAGE TEACHER CODE
+For you, the problem is easy to implement:
 
     squares = []
     for i in range(10):
@@ -20,7 +22,7 @@ But if you show them a solution:
 
 ![student fell asleep](images/code_complete_solution.png)
 
-If you however ask them to write it themselves:
+If you however ask them to write it from scratch themselves:
 
 ![student in panic mode](images/code_empty_panic.png)
 
@@ -34,7 +36,7 @@ You also want more advanced students to try alternative implementations:
 
 ### 1. Live Code
 
-IMAGE GURU
+![Zen of Live Coding](images/zen_live_code.png)
 
 wait for them
 

@@ -32,7 +32,7 @@ Then tell what happened. Plain and simple. That is enough. No fireworks needed.
 
 ![first time story](images/story_first_time.png)
 
-You may want to rehearse your story one or twice or write it down.
+You can even tell about your experience in something super common like [the Titanic challenge on Kaggle](https://www.kaggle.com/c/titanic) as long as you find something that is new for the students.
 
 ### 2. The "Hero Journey" Structure
 
@@ -44,8 +44,9 @@ time: 5'
 
 ### 3. Good Stories are short
 
-![first time story](images/first_time.png)
+![another first time story](images/first_time.png)
 
+You may want to rehearse your story one or twice or write it down.
 
 git story
 

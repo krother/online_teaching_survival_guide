@@ -35,8 +35,7 @@ If something does not work out it takes out momentum.
 
 ### 2. Establish rules
 
-IMAGE STILL SAFE 
-RULES TASK TIMEBOX WRITE
+![facilitation rules](images/breakout_facilitation.png)
 
 ### 3. Short taks are easier
 
@@ -46,6 +45,6 @@ RULES TASK TIMEBOX WRITE
 
 ### 4. Longer tasks in groups
 
-IMAGE GROUPS
+![types of group work](images/group_work.png)
 
 TRICK TOO EASY

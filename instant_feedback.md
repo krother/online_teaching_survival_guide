@@ -1,7 +1,7 @@
 
 # How to get instant feedback from students?
 
-IMAGE PENGUIN HOW WAS MY BASH LESSON?
+![pingu asking for feedback](images/pingu.png)
 
 ## The Problem
 
@@ -31,7 +31,7 @@ Asking 3 questions on the subjects from the last lesson is a low-risk strategy:
 
 also works as a True/False quiz
 
-IMAGE SLACK
+![yes no question on Slack](images/slack_yesno.png)
 
 You learn how much into the subject your students are.
 
@@ -55,7 +55,7 @@ good to let off some pressure in a controlled manner.
 
 dot-voting on ideas
 
-IMAGE BAR PLOT
+![feecback barplot](images/feedback_barplot.png)
 
 also works on slack, socrative
 
@@ -70,7 +70,7 @@ if you have conflicts boiling may make them worse, lean coffee
 
 ### WARNING
 
-Most feedback
+Most feedback should be kept confidential.
 
 ![confidential meeting](images/agent_topsecret.png)
 

@@ -25,7 +25,7 @@ You want to:
 
 ## Solution
 
-IMAGE BIKE DRIVING ALONG A TIME SERIES
+![bike driving along a time series](images/bike_time_series.png)
 
 ### 1. Arrive Early
 
@@ -52,9 +52,7 @@ Answer 4 questions:
 
 *Priming: dictionary definition*
 
-IMAGE PRIMING
-
-* share a bicycle story
+![priming activities](images/priming.png)
 
 ### 4. Recap
 

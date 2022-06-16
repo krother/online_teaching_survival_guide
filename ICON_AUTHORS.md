@@ -15,5 +15,8 @@ icons were purchased from [The Noun Project](https://thenounproject.com) using t
 - Loudoun Design Co https://thenounproject.com/LoudounDesignCo/
 - Akash https://thenounproject.com/akauxd/
 - Nabila https://thenounproject.com/nabiladesna03/
+- Ealancheliyan https://thenounproject.com/Ealancheliyan/
+- Gung Yoga https://thenounproject.com/yoganagbali/
+
 
 Haraucort initial from Wikimedia Commons - public domain

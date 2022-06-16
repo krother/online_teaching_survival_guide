@@ -27,7 +27,7 @@ The main point of having a path is that it gives your student a **direction**
 
 ### 2. Reading Material
 
-IMAGE less > more
+![less is more](images/less_is_more.png)
 
 
 LINK DVGODOY: https://github.com/dvgodoy/ML_Fundamentals
@@ -37,9 +37,8 @@ LINK DVGODOY: https://github.com/dvgodoy/ML_Fundamentals
 For self-study, you need a complete step-by-step guide.
 It does not have to be a literary masterpiece
 
-IMAGE OUTPUTS
+![expected output](images/expected_output.png)
 
-IMAGE HARD HAT
 
 Full Stack open: https://fullstackopen.com/en/
 
@@ -47,4 +46,4 @@ Full Stack open: https://fullstackopen.com/en/
 
 Easy to write
 
-IMAGE 6 KATAS
+![coding kata](images/coding_kata.png)

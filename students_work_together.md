@@ -20,8 +20,6 @@ However, in an online class, this rarely happens by itself.
 
 Students feel *psychologically safe* on their own
 
-IMAGE SAFE BOX
-
 ----
 
 ## Solution
@@ -41,6 +39,8 @@ IMAGE STILL SAFE
 RULES TASK TIMEBOX WRITE
 
 ### 3. Short taks are easier
+
+![students can get along](images/group_get_along.png)
 
 ![example tasks for group work](images/example_group_tasks.png)
 

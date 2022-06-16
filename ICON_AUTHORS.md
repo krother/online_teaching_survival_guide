@@ -13,5 +13,6 @@ icons were purchased from [The Noun Project](https://thenounproject.com) using t
 - Made x Made https://thenounproject.com/christian933/
 - Creative Stall https://thenounproject.com/creativestall/
 - Loudoun Design Co https://thenounproject.com/LoudounDesignCo/
+- Akash https://thenounproject.com/akauxd/
 
 Haraucort initial from Wikimedia Commons - public domain

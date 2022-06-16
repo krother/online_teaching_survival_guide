@@ -54,6 +54,10 @@ To create these, create a complete solution first and omit parts.
 
 Faded Examples https://teachtogether.tech/en/index.html#s:architecture-load
 
+![recycle code](images/recycle_code.png)
+
+You can use the same code example to generate exercises for beginners and advanced students.
+Slightly modifying an exercise you know well saves you lots of time.
 
 
 ### 3. Step-by-Step
@@ -64,4 +68,3 @@ Better for a longer exercise.
 
 This is more work, but it is simpler to do.
 
-IMAGE BONUS EXTRA GAUGE

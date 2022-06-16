@@ -15,7 +15,7 @@ You have **no idea** what is going on in your class.
 
 .. or everything is great and you would like to slow down and **reflect**:
 
-IMAGE CAMPFIRE
+![students reflect](images/feedback_reflect.png)
 
 ----
 
@@ -27,7 +27,7 @@ Select one strategy:
 
 Asking 3 questions on the subjects from the last lesson is a low-risk strategy:
 
-IMAGE CHMOD
+![multiple choice quiz](images/feedback_multiple_choice.png)
 
 also works as a True/False quiz
 
@@ -43,13 +43,11 @@ Collect ideas in an online app
 
 Let students see the results:
 
-IMAGE 3 QUESTIONS
+![3 questions](images/feedback_temp_check.png)
 
 -> Slack, Funretros, Spreadsheet
 
 ![penguin with thermometer](images/thermo.png)
-
-IMAGE TEMP CHECK
 
 good to let off some pressure in a controlled manner.
 
@@ -63,7 +61,7 @@ also works on slack, socrative
 
 ### D: Lean Coffee
 
-IMAGE COFFEE
+![lean coffee method](images/lean_coffee.png)
 
 up to 8 people
 needs time

@@ -10,7 +10,7 @@ Everything works fine, but then your lesson starts:
 
 If you fix everything in class, half the day will be over.
 
-IMAGE TEACHER DOESNT HAVE TIME
+![teachers are busy people](images/teacher_notime.png)
 
 How to make installation issues go away?
 

@@ -33,7 +33,7 @@ Be there 10 minutes earlier at least.
 
 Conduct a tech-check with the first attendant.
 
-IMAGE CAN YOU HEAAAAR ME?
+![soundcheck](images/soundcheck.png)
 
 Chat a little, get to know them a bit. 
 Genuine starter question in a course where you come in for a Masterclass: What did you learn yesterday?

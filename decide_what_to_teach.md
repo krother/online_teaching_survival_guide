@@ -9,13 +9,13 @@ You know much more than you can fit in one lesson.
 
 or isn't that such a big problem after all?
 
-IMAGE ALL VS KNOWN
-
-IMAGE TEACHER FEELS GREAT
+![all vs known](images/knowledge_all.png)
 
 **Surprise:** It is not about **You**. It is always about your **students**.
 
-IMAGE STUDENT BUBBLE
+![goal of the teacher](images/teacher_goal.png)
+
+So the real question is: How can you make it count for them?
 
 ----
 
@@ -23,13 +23,17 @@ IMAGE STUDENT BUBBLE
 
 ### 1. Find an interesting problem
 
-IMAGE PINGUS INTERESTING AND CUTE
+![](images/knowledge_problem.png)
 
-IMAGE A...B
+Always use a tangible example to make the problem real:
+
+![three penguins want into a database](images/three_penguins.png)
+
+*Palmerpenguins Artwork by @allison_horst*
 
 ### 2. Identify 5 +- 2 Stepping Stones
 
-IMAGE A.oooo.B 
+![stepping stones](images/knowledge_concepts.png)
 
 Literature says our mental capacity is
 
@@ -39,8 +43,6 @@ Literature says our mental capacity is
 
 Leave out everything that does not belong to any your main concepts.
 
-IMAGE SCARY
-
 Students (or people in general) are very good at connecting dots and expanding to new problems.
 
 IMAGE GROWTH
@@ -49,7 +51,7 @@ IMAGE GROWTH
 
 Deep Dive
 
-IMAGE DEEP DIVE
+![deep dive](images/knowledge_deepdive.png)
 
 Recap
 

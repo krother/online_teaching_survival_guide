@@ -45,15 +45,10 @@ Leave out everything that does not belong to any your main concepts.
 
 Students (or people in general) are very good at connecting dots and expanding to new problems.
 
-IMAGE GROWTH
+![knowledge grows](images/knowledge_grows.png)
 
-### 4. Related Problems
+### 4. Deep Dive Lessons
 
 Deep Dive
 
 ![deep dive](images/knowledge_deepdive.png)
-
-Recap
-
-IMAGE RECAP
-

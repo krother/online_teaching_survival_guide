@@ -15,8 +15,7 @@ When should you stop?
 
 Here you find tools that get your preparation straight to the point.
 
-
-IMAGE MIND MAP CONCEPTS
+![](images/lesson_structure.png)
 
 ### 1. Problem
 
@@ -24,19 +23,23 @@ Theme + Data
 
 ### 2. Visual Overview
 
-IMAGE CONCEPT MAP
+![concept map](images/concept_map.png)
 
 ### 3. Code
 
 Write a complete solution first
 
-IMAGE REDUCED EXAMPLE
+also see [](engaging_coding_exercises.md)
 
 ### 4. Questions
 
-IMAGE YODA
+Prepare a few questions:
 
-Write down 
+*
+*
+*
+
+also see: interview questions
 
 ### 5. Further Reading
 
@@ -44,9 +47,9 @@ Write down
 You could use these for a research activity as well.
 
 ### 6. Write a lesson plan
+
 TABLE LESSON PLAN
 
 ### 7. Create Materials
 
 Often you need much less than you think.
-

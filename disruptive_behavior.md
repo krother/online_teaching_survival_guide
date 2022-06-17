@@ -40,7 +40,7 @@ Text Prime Directive
 
 Outside zoom, the same students are often perfectly peaceful and harmonic beings.
 
-IMAGE UNICORN PARK
+![](images/unicorn_park.png)
 
 Or maybe it is their way of saying *"Hello"*
 
@@ -48,7 +48,9 @@ Or maybe it is their way of saying *"Hello"*
 
 ### 3. Find out what is going on
 
-IMAGE 1ON1
+![one on one conversation](images/one_on_one.png)
+
+This is not easy. You may want to escalate with the next step right away.
 
 It may also help to let off some steam by running a feedback round with the team.
 Cards feedback.

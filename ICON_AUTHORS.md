@@ -18,5 +18,6 @@ icons were purchased from [The Noun Project](https://thenounproject.com) using t
 - Ealancheliyan https://thenounproject.com/Ealancheliyan/
 - Gung Yoga https://thenounproject.com/yoganagbali/
 - Viktor Turchyn https://thenounproject.com/vturchyn/
+- rina https://thenounproject.com/akuurina43/
 
 Haraucort initial from Wikimedia Commons - public domain

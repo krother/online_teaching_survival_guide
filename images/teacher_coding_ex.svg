@@ -9,16 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="190mm"
+   width="115mm"
    height="55mm"
-   viewBox="0 0 190 55"
+   viewBox="0 0 115 55"
    version="1.1"
    id="svg3270"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="teacher_coding_ex.svg"
    inkscape:export-filename="/home/kristian/projects/online_teaching_survival_guide/images/teacher_coding_ex.png"
-   inkscape:export-xdpi="80.209999"
-   inkscape:export-ydpi="80.209999">
+   inkscape:export-xdpi="132.52"
+   inkscape:export-ydpi="132.52">
   <defs
      id="defs3264">
     <clipPath
@@ -43,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="27.290581"
-     inkscape:cy="255.69223"
+     inkscape:zoom="0.7"
+     inkscape:cx="-150.38189"
+     inkscape:cy="250.85307"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -63,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

@@ -16,8 +16,8 @@
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="lesson_structure.svg"
    inkscape:export-filename="/home/kristian/projects/online_teaching_survival_guide/images/lesson_structure.png"
-   inkscape:export-xdpi="143.98"
-   inkscape:export-ydpi="143.98">
+   inkscape:export-xdpi="95.980003"
+   inkscape:export-ydpi="95.980003">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="106.1678"
-     inkscape:cy="276.00829"
+     inkscape:cx="-75.154582"
+     inkscape:cy="271.96768"
      inkscape:document-units="px"
      inkscape:current-layer="g3035"
      showgrid="false"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

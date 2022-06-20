@@ -15,10 +15,10 @@
    version="1.1"
    id="svg3270"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="yoda_try.svg"
-   inkscape:export-filename="/home/kristian/Desktop/keynote_aiguild/teacher_goal.png"
-   inkscape:export-xdpi="508"
-   inkscape:export-ydpi="508">
+   sodipodi:docname="teacher_goal.svg"
+   inkscape:export-filename="/home/kristian/projects/online_teaching_survival_guide/images/teacher_goal.png"
+   inkscape:export-xdpi="254"
+   inkscape:export-ydpi="254">
   <defs
      id="defs3264" />
   <sodipodi:namedview
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="-35.968794"
-     inkscape:cy="17.721804"
+     inkscape:cx="-163.46879"
+     inkscape:cy="14.864661"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

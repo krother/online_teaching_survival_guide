@@ -1,7 +1,7 @@
 
 # How to use storytelling?
 
-![The End](images/story_onceupon.png)
+![Once upon a time series ...](images/story_onceupon.png)
 
 ## The Problem
 
@@ -64,7 +64,7 @@ Here is a short story about a bug that happened to me:
     It made a good practical example at the start for the course.
 
 Although the problem was solved by a single line (`pip install windows-curses`),
-the story makes a point: *bugs like this happen to experience people*.
+the story makes a point: *bugs like this happen even to experienced people*.
 
 Tell what happened. That is enough.
 Keeping the language plain and simple is fine.
@@ -76,14 +76,14 @@ If you want, add a few rhetoric devices:
 
 It is fine to tell about super common experiences like [the Titanic challenge on Kaggle](https://www.kaggle.com/c/titanic) as long as you find something that is new for the students.
 
-![first time story](images/story_first_time.png)
+![another first time story](images/story_first_time.png)
 
 
 ### 2. The "Hero Journey" Structure
 
 Usually, stories are strictly chronological.
 If you want to craft a story that is a bit more sophisticated, you can employ the structure of a classical drama and package that into 2-5 minutes.
-This is called the "Hero Journey":
+This is called the **"Hero Journey"**:
 
 ![hero journey](images/hero_journey.png)
 

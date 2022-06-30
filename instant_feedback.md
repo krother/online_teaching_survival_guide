@@ -23,7 +23,7 @@ You have **no idea** what is going on in your class.
 
 In online teaching, most students do not share useful feedback by themselves.
 **Useful feedback** is information that lets you to fine-tune and improve the course as it runs.
-Here, we are not too interested in feedback that allows you to compare courses teachers.
+Here, we are not too interested in feedback that allows you to compare courses, let alone teachers.
 
 Below, you find four feedback strategies to choose from:
 
@@ -54,7 +54,7 @@ A more spontaneous feedback is to collect ideas in an online app.
 It usually makes sense that students can see the results – this builds mutual trust.
 Here are three questions that are easy to start with:
 
-![3 questions](images/feedback_temp_check.png)
+![three questions](images/feedback_temp_check.png)
 
 Collecting ideas on multiple questions allows you to mix information on technical aspects (*"which topic is difficult"*) or do an emotional **temperature check** (*"what do you like"*, *"what frustrates you"*).
 You can use the temperature check question to release a bit of pressure in a controlled way.

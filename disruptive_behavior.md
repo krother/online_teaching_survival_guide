@@ -45,9 +45,14 @@ When you observe disruptive behavior, it is very easy and tempting to blame some
 But blaming anyone is not constructive and most of the time does not give you any useful results either.
 It is good to remember the **Retrospective Prime Directive**:
 
-    Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand. — Norm Kerth
+    Regardless of what we discover, we understand and truly believe
+    that everyone did the best job they could, given what they knew
+    at the time, their skills and abilities, the resources available,
+    and the situation at hand.
+    
+        — Norm Kerth
 
-That is, unless you learn otherwise, you assume that the student did not disrupt anything on purpose.
+That means, unless you learn otherwise, you assume that the student did not disrupt anything on purpose.
 Outside zoom, the same students are often perfectly peaceful and harmonic beings.
 I once observed a super nervous and somewhat difficult group in online course.
 Later I met them at a picnic and they were like best friends:

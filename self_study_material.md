@@ -40,7 +40,7 @@ But if the student follows your path until they know the jungle well enough to c
 ### 2. Reading Material
 
 With self-study material, students usually have the same problem as with choosing a subject: there is simply too much material.
-It does not help if you assemble a reading list consisting of 10 web pages and 5 papers.
+It does not help if you assemble a reading list consisting of 10 web pages, 5 research papers and 1 book.
 Very few people have the time to read through all of these.
 
 ![less is more](images/less_is_more.png)
